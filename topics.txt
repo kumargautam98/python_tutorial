@@ -1,0 +1,26 @@
+PYTHON BASICS
+Introduction to Python
+Strings
+String Operators and Functions
+Lists
+Tuples
+Sets
+Dictionaries
+Conditions
+Loops
+Functions
+Built-in Functions
+Math Module Functions
+Exception Handling
+Reading Files
+Writing Files
+
+PYTHON ADVANCED
+Lambda Functions
+List Comprehension
+Dictionary Comprehension
+Set Comprehensions
+Generators
+Generator Expressions
+Decorators
+Classes and Objects (Object-Oriented Programming)
