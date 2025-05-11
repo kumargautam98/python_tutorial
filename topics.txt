@@ -1,4 +1,5 @@
-PYTHON BASICS
+TABLE OF CONTENTS
+Python BASICS
 Introduction to Python
 Strings
 String Operators and Functions
@@ -6,7 +7,7 @@ Lists
 Tuples
 Sets
 Dictionaries
-Conditions
+Conditional Statements
 Loops
 Functions
 Built-in Functions
@@ -15,7 +16,8 @@ Exception Handling
 Reading Files
 Writing Files
 
-PYTHON ADVANCED
+
+Python ADVANCED
 Lambda Functions
 List Comprehension
 Dictionary Comprehension
