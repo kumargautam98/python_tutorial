@@ -4,8 +4,8 @@ Download python from https://www.python.org/downloads/ for your operating system
 Open your ``` ~/.zshrc ``` file in any text editor (eg nano on mac). If the file doesn't exist, you can create it. (nano ~/.zshrc)
 Add the following line to the end of the file: ``` bash export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH" ```
 Save and close the file using the command Ctrl + O on mac, press ENTER key for the confirmation and Ctrl + X for exiting from the nano editor
-Double check the zshrc file content using the command ```cat ~/.zshrc```
-Next run the source command to make the changes take effect: ``` source ~/.zhrc ```
+Double check the zshrc file content using the command ``` cat ~/.zshrc ```
+Next run the source command to make the changes take effect: ``` source ~/.zshrc ```
 This will prepend the python 3.12 directory to your $PATH, making it the first directory the shell will look in while searching for the 'python3' command.
 Therefore, 'python3' will now refere to python 3.12 by default.
 
