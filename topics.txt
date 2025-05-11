@@ -1,5 +1,5 @@
 TABLE OF CONTENTS
-PYTHON BASICS
+Python BASICS
 Introduction to Python
 Strings
 String Operators and Functions
@@ -15,12 +15,13 @@ Exception Handling
 Reading Files
 Writing Files
 
-PYTHON ADVANCED
+
+Python ADVANCED
 Lambda Functions
 List Comprehension
 Dictionary Comprehension
 Set Comprehensions
-Generators
+Generators 
 Generator Expressions
 Decorators
 Classes and Objects (Object-Oriented Programming)
