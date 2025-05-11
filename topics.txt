@@ -15,7 +15,6 @@ Exception Handling
 Reading Files
 Writing Files
 
-
 Python ADVANCED
 Lambda Functions
 List Comprehension
