@@ -1,5 +1,5 @@
 TABLE OF CONTENTS
-Python BASICS
+PYTHON BASICS
 Introduction to Python
 Strings
 String Operators and Functions
@@ -11,13 +11,11 @@ Conditional Statements
 Loops
 Functions
 Built-in Functions
-Math Module Functions
 Exception Handling
 Reading Files
 Writing Files
 
-
-Python ADVANCED
+PYTHON ADVANCED
 Lambda Functions
 List Comprehension
 Dictionary Comprehension
